@@ -43,7 +43,6 @@
    - STUN Server giúp xác định địa chỉ mạng của client.
    - TURN Server chỉ được dùng khi kết nối P2P trực tiếp không khả thi (ví dụ: NAT chặn kết nối).  
 
----
 
 ## **2. Lợi ích của mô hình WebRTC**
 - **Giảm độ trễ**: Dữ liệu truyền trực tiếp giữa các client.  
