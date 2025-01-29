@@ -29,7 +29,7 @@
 ![image](https://github.com/user-attachments/assets/e61c0593-e7af-4f1c-b9ab-8ebd40873a7d)
 
 
-## 📖 **Giải thích sơ đồ**
+## **1. Giải thích sơ đồ**
 1. **Giai đoạn Signaling (Trao đổi SDP và ICE Candidates)**
    - Hai trình duyệt (Client 1 và Client 2) sử dụng Signaling Server để trao đổi SDP (Session Description Protocol) và ICE Candidates.
    - SDP chứa thông tin phương tiện (âm thanh/video) mà mỗi bên hỗ trợ.
@@ -45,7 +45,7 @@
 
 ---
 
-## ✅ **Lợi ích của mô hình WebRTC**
+## **2. Lợi ích của mô hình WebRTC**
 - **Giảm độ trễ**: Dữ liệu truyền trực tiếp giữa các client.  
 - **Tiết kiệm tài nguyên**: Không cần máy chủ trung gian để xử lý dữ liệu.  
 - **Bảo mật cao**: Dữ liệu có thể được mã hóa để đảm bảo an toàn.  
