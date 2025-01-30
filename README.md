@@ -1,3 +1,4 @@
+[WebRTC book](https://webrtcforthecurious.com/docs/webrtc-for-the-curious.pdf)
 # WebRTC
 ## **1. WebRTC là gì?**  
 - **WebRTC** (Web Real-Time Communication) là công nghệ giúp truyền dữ liệu thời gian thực giữa các trình duyệt mà không cần máy chủ trung gian.  
